@@ -4,7 +4,7 @@ DATASET-https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognitio
 
 
 -classifer used-Haar Cascade Algorithm
--activaion function used-RELU,Softmax
+-activaTion function used-RELU,Softmax
 -Layers built
     -convolutional layer
     -fully connected layers
